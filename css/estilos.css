@@ -1,0 +1,66 @@
+/* Clase para darle estilos al body */
+.Musica-body {
+  background: 	#aaaaaa;
+}
+.Musica-Header {
+  background: #3a4d4b;
+  min-height: 10%;
+  border: none;
+}
+
+header .logo{
+  max-width: 100%;
+}
+
+img .social{
+  width:40px;
+  height: 40px;
+}
+
+header .redes-sociales{
+  bottom: 0;
+  right: 0;
+  padding: 10px;
+}
+/* Barra de Navegacion */
+#Navegador{
+  border-radius: 0;
+  background-color: #3d8383 ;
+  border-color: #3a4d4b;
+  border-width: medium;
+  width: 100%;
+}
+#Navegador a{
+  color:white;
+}
+
+#Navegador li:hover{
+  background-color: #6f7170  ;
+}
+
+#Navegador li:active{
+  background-color: rgb(27,38,32);
+}
+
+
+.articulo{
+  background: #6f7170;
+
+}
+.AdaptarFila{
+  padding: 10px 10px 10px 10px;
+}
+.botonbuscar{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right:  10px;
+  padding-bottom: 10px;
+}
+.colorlistado{
+  background-color: rgb(27,38,32)	;
+}
+
+.listascanciones a:hover{
+  background: #3d8383;
+  color: white;
+}
